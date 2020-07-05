@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../puma.png";
+import logo from "../../puma.png";
 import style from './Header.module.css';
 
 const Header = () => {
